@@ -1,0 +1,11 @@
+site_name: WEB MINING 2019
+theme: material
+nav :
+    - Pendahuluan : home.md
+    - Crawling : crawling.md
+    - Preprocessing : prepro.md
+    - VSM : vsm.md
+    - TF-IDF : tfidf.md
+    - Seleksi Fitur : fitur.md
+    - Clustering : clustering.md
+    - Kesimpulan : akhir.md
