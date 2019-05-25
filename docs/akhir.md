@@ -1,0 +1,3 @@
+Hasil akhir dari program akan menunjukkan data-data yang memiliki kemiripan atau karakteristik yang sama di masing-masing cluter. Untuk mendapatkan sebuah cluster dengan karakteristik yang lebih mirip, bisa dengan menambahkan jumlah cluster saat proses clustering.
+
+Seleksi fitur sangat berpengaruh besar pada hasil cluster, fitur yang sangat banyak dapat dikurangi / dilakukan penyusutan dengan metode pearson correlation. pearson correlation adalah metode yang paling sederhana untuk seleksi fitur, sehingga hasil akurasi masih kurang akurat. untuk itu disarankan untuk mencoba melakukan perbandingan akurasi dengan metode lain untuk mencari hasil yang lebih akurat.
